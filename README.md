@@ -1,6 +1,6 @@
 # my-repo
 
-The eight laws of learning:
+### The eight laws of learning:
 1. Explanation
 2. Demonstration
 3. Imitation
